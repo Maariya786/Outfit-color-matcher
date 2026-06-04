@@ -15,5 +15,5 @@ Tech Stack:
 Python, Flask
 HTML, CSS, JavaScript
 OpenCV, sklearn
-Kotlin (Android app)
+
 
